@@ -1,0 +1,6 @@
+[submodule "tools"]
+	path = tools
+	url = git@github.com:ylipacbio/toolsII.git
+[submodule "libcpp"]
+	path = libcpp
+	url = git@github.com:ylipacbio/libcppII.git
